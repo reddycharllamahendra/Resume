@@ -1,0 +1,65 @@
+    table{
+        background-color: rgb(242, 245, 245);
+        color: black;
+    }
+    img:hover{
+        cursor: grab;
+    }
+    dd:hover{
+        cursor: crosshair;
+    }
+
+    *{
+        color: rgb(6, 56, 56);
+    }
+    h2{
+        color: black;
+    }
+    td{
+        background-color: rgb(160, 197, 207);
+    }
+    b{
+        color: rgb(68, 68, 109);
+    }
+    a:link{
+        color: aliceblue;
+    }
+    a:visited{
+        color: rgb(145, 102, 46);
+    }
+    a:active{
+        color: rgb(52, 226, 43);
+    }
+    a:hover{
+        cursor: grab;
+    }
+    th:nth-child(1){
+        color: black;
+        background-color: antiquewhite;
+    }
+    th:nth-child(2){
+        color: black;
+        background-color: antiquewhite;
+    }
+    th:nth-child(3){
+        color: black;
+        background-color: antiquewhite;
+    }
+    *::selection{
+        color: rgb(1, 16, 11);
+        background-color: aquamarine;
+    }
+    dt::before{
+        content: "*";
+        color: rgb(112, 59, 59);
+    }
+    dt::after{
+        content: "*";
+        color: rgb(112, 59, 59);
+    }
+    .color ul::marker{
+        color: blue;
+    }
+    .highlight{
+        background-color: #ffefc5;
+    }
