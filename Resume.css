@@ -22,7 +22,7 @@
         color: rgb(68, 68, 109);
     }
     a:link{
-        color: aliceblue;
+        color: rgb(81, 133, 179);
     }
     a:visited{
         color: rgb(145, 102, 46);
@@ -63,3 +63,4 @@
     .highlight{
         background-color: #ffefc5;
     }
+
